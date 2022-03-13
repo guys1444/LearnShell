@@ -2,7 +2,7 @@
   <layout-default>
     <div class="Home">
       <div id="app">
-        <h1>{{ message }}</h1>
+        <h1>Learn Shell</h1>
         <h2>
           The First Linux / Windows Commond line interactive learning platform
         </h2>
