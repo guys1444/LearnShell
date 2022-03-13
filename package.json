@@ -1,0 +1,28 @@
+{
+  "name": "dynamic-vue-layout-components-1",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "Markus Oberlehner <markus.oberlehner@gmail.com>",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-command": "23.0.1",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "sass-loader": "^7.0.3",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "keywords": []
+}
